@@ -5,7 +5,7 @@
 
 const char *argp_program_version = "padinf";
 
-static char doc[] = "padinf -- Prints padding information.\n"
+static char doc[] = "padinf -- prints padding information\n"
                     "Example: padinf -a 16384 a.bin";
 
 static char args_doc[] = "[input=FILE]";
