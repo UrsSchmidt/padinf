@@ -1,2 +1,2 @@
 # padinf
-Prints padding information.
+`padinf` prints padding information.
